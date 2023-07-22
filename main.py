@@ -29,8 +29,11 @@ async def get_weather(message: types.Message):
     except:
         await message.reply("ошибка(!")
 
+<<<<<<< HEAD
 print(1)
 
+=======
+>>>>>>> origin/main
 
 
 
